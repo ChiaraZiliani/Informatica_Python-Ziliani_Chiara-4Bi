@@ -1,4 +1,4 @@
-## Verisoni 
+## Versioni 
 ### Python 
 POSTAZIONE INFO2-5
 ``` bash 
@@ -11,7 +11,7 @@ POSTAZIONE INFO2-5
 code --version 
 1.94.2
 ```
-### Code 
+### Git 
 POSTAZIONE INFO2-5
 ``` bash 
 git --version 
